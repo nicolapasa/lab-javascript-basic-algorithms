@@ -99,7 +99,7 @@ Create a Pull Request so that the TAs can check your work.
 
   3.2 Print all the characters of the navigator's name in reverse order, i.e., `"nhoJ"`.
 
-  3.3 Depending on the [lexicographic order](https://en.wikipedia.org/wiki/Lexicographical_order) of the strings, print: <br>
+  3.3 Depending on the [lexicographic order]() of the strings, print: <br>
 
 - `The driver's name goes first.` <br>
 - `Yo, the navigator goes first, definitely.` <br>
